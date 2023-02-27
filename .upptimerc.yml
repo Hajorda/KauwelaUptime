@@ -20,10 +20,10 @@ status-website:
   logoUrl: https://media.discordapp.net/attachments/984469722500329474/1076536703365435522/image.png
   name: Hajorda
   introTitle: "**KauwelaBot** is an Discord bot built with Java and You can check to status of the bot from here."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage:
   navbar:
-    - title: Status
-      href: /
+    - title: Support Server
+      href: https://discord.gg/jXpT9rtHMN
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
